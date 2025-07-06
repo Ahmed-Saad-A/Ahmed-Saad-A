@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:700; font-size: 32px;">🚀 Ahmed Saad | Front-End Developer</h1>
+<h1 align="center">🚀 Ahmed Saad | Front-End Developer</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&height=100&width=600&lines=Frontend+Developer+with+Angular+%26+React;Open+to+Work+%F0%9F%91%8B;Clean+UI+%7C+SCSS+%7C+TypeScript+Lover" alt="Typing SVG" />
@@ -17,49 +17,54 @@
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:ahmed.saad.bayoumi.farag@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/00BFFF/gmail.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-saad02" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/00BFFF/linkedin.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" />
-  </a>
-  <a href="https://www.facebook.com/share/15XrcjXaWn/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/00BFFF/facebook-new.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" />
-  </a>
-  <a href="https://wa.me/+201025363285" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/00BFFF/whatsapp.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" />
-  </a>
+  <a href="mailto:ahmed.saad.bayoumi.farag@gmail.com"><img src="https://img.icons8.com/ios-filled/50/00BFFF/gmail.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-saad02"><img src="https://img.icons8.com/ios-filled/50/00BFFF/linkedin.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" /></a>
+  <a href="https://www.facebook.com/share/15XrcjXaWn/"><img src="https://img.icons8.com/ios-filled/50/00BFFF/facebook-new.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" /></a>
+  <a href="https://wa.me/+201025363285"><img src="https://img.icons8.com/ios-filled/50/00BFFF/whatsapp.png" width="50" style="border:2px solid #00BFFF; border-radius:50%; padding:10px;" /></a>
 </p>
 
 ---
 
 ## 🧩 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎨 Daniels Portfolio</h3>
-      <p>Personal portfolio showcasing skills, services, testimonials, and contact form. Built with HTML, CSS & Bootstrap.</p>
-      🔗 <a href="https://ahmed-saad-a.github.io/Daniels/">Live Demo</a> |
-      <a href="https://github.com/Ahmed-Saad-A/Daniels">Source Code</a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔖 Bookmark Landing Page</h3>
-      <p>Modern, responsive landing page for a fictional bookmark manager. Built with clean layout and animations.</p>
-      🔗 <a href="https://ahmed-saad-a.github.io/Bookmark-/">Live Demo</a> |
-      <a href="https://github.com/Ahmed-Saad-A/Bookmark-">Source Code</a>
-    </td>
-  </tr>
-</table>
+<!-- === Project 1: Daniels === -->
+<div align="center">
+  <img src="ضع-رابط-صورة-مشروع-Daniels" alt="Daniels Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+</div>
+
+<h3 align="center">🎨 Daniels Portfolio</h3>
+<p align="center">Personal portfolio showcasing skills, services, testimonials, and contact form. Built with HTML, CSS & Bootstrap.</p>
+<p align="center">
+  🔗 <a href="https://ahmed-saad-a.github.io/Daniels/">Live Demo</a> |
+  💻 <a href="https://github.com/Ahmed-Saad-A/Daniels">Source Code</a>
+</p>
 
 ---
 
-### 🫱 Charity Management System
+<!-- === Project 2: Bookmark === -->
+<div align="center">
+  <img src="ضع-رابط-صورة-مشروع-Bookmark" alt="Bookmark Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+</div>
 
-- A full-stack system for charity organizations with donations, volunteers, and beneficiaries.
-- Built with: HTML, SCSS, TypeScript, .NET Core, SQL Server.
-- Auth, role-based access, live API integration, and admin dashboard.  
-🔗 [Live Demo](https://charity-project-delta.vercel.app/)
+<h3 align="center">🔖 Bookmark Landing Page</h3>
+<p align="center">Modern, responsive landing page for a fictional bookmark manager. Built with clean layout and animations.</p>
+<p align="center">
+  🔗 <a href="https://ahmed-saad-a.github.io/Bookmark-/">Live Demo</a> |
+  💻 <a href="https://github.com/Ahmed-Saad-A/Bookmark-">Source Code</a>
+</p>
+
+---
+
+<!-- === Project 3: Charity === -->
+<div align="center">
+  <img src="ضع-رابط-صورة-مشروع-Charity" alt="Charity Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+</div>
+
+<h3 align="center">🫱 Charity Management System</h3>
+<p align="center">Full-stack system for charity organizations with donations, volunteers, beneficiaries, roles, auth, and dashboards.</p>
+<p align="center">
+  🔗 <a href="https://charity-project-delta.vercel.app/">Live Demo</a>
+</p>
 
 ---
 
