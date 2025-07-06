@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to Ahmed Saad's GitHub</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer+with+Angular+%26+React;Open+to+Work+%F0%9F%91%8B;Passionate+about+clean+UI+%26+responsive+designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Developer+with+Angular+%26+React;Open+to+Work+%F0%9F%91%8B;Clean+UI+%7C+SCSS+%7C+TypeScript+Lover" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,16 +10,16 @@
 
 🎓 I'm Ahmed Saad, holding a Bachelor's degree in **Mathematics & Computer Science**.  
 💻 I'm a passionate **Frontend Developer** specialized in building responsive and interactive web applications using **Angular** and **React**.  
-🚀 Always learning, always improving.
+🎯 Focused on UI/UX, clean structure, and scalable codebases.
 
 ---
 
 ### 🏷 Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Work-%234CAF50?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Developer-%231572B6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-Deployer-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-4CAF50?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-Deployer-black?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
@@ -29,44 +29,23 @@
 
 <p align="center">
   <a href="mailto:ahmed.saad.bayoumi.farag@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-saad-a/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" />
+  <a href="https://www.linkedin.com/in/ahmed-saad02" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/+201153008952" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="50" />
+  <a href="https://www.facebook.com/share/15XrcjXaWn/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/ahmed.saad.a" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="50" />
+  <a href="https://wa.me/+201025363285" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🛠 Tech Stack
-
-#### 🧠 Languages & Frameworks
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" title="SCSS / Sass"/>
-</p>
-
-#### 🔧 Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" title="Vercel"/>
+  <a href="https://github.com/Ahmed-Saad-A" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://vercel.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
