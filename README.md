@@ -57,7 +57,7 @@
 
 <!-- === Project 3: Charity === -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/charity-project-delta/master/GivingHand-preview.png" alt="Charity Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Mayar-Fawzy/Charity-Project/master/GivingHand-preview.png" alt="Charity Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
 </div>
 
 <h3 align="center">🫱 Charity Management System</h3>
