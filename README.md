@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to Ahmed Saad's GitHub</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Developer+with+Angular+%26+React;Open+to+Work+%F0%9F%91%8B;Clean+UI+%7C+SCSS+%7C+TypeScript+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&height=100&width=600&lines=Frontend+Developer+with+Angular+%26+React;Open+to+Work+%F0%9F%91%8B;Clean+UI+%7C+SCSS+%7C+TypeScript+Lover" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,37 +14,26 @@
 
 ---
 
-### 🏷 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Work-4CAF50?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Developer-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-Deployer-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:ahmed.saad.bayoumi.farag@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ahmed.saad.bayoumi.farag@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/00BFFF/gmail-new.png" width="50" style="border: 2px solid #00BFFF; border-radius: 50%; padding: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-saad02" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/00BFFF/linkedin.png" width="50" style="border: 2px solid #00BFFF; border-radius: 50%; padding: 10px;" />
   </a>
   <a href="https://www.facebook.com/share/15XrcjXaWn/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/00BFFF/facebook-new.png" width="50" style="border: 2px solid #00BFFF; border-radius: 50%; padding: 10px;" />
   </a>
   <a href="https://wa.me/+201025363285" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/00BFFF/whatsapp.png" width="50" style="border: 2px solid #00BFFF; border-radius: 50%; padding: 10px;" />
   </a>
   <a href="https://github.com/Ahmed-Saad-A" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/00BFFF/github.png" width="50" style="border: 2px solid #00BFFF; border-radius: 50%; padding: 10px;" />
   </a>
   <a href="https://vercel.com/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/00BFFF/cloud.png" width="50" style="border: 2px solid #00BFFF; border-radius: 50%; padding: 10px;" />
   </a>
 </p>
 
@@ -73,6 +62,34 @@
 - 🔒 Features authentication, dynamic dashboards, role-based access, and API integration.
 - 🌍 Deployed using Vercel for frontend and connected to real backend API.
 - 🔗 [Live Demo](https://charity-project-delta.vercel.app/)
+
+---
+
+## 💻 Tech Stack
+
+### 📦 Front-End Libraries & Frameworks
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
+</p>
+
+### 🛠 Tools & Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" />
+</p>
 
 ---
 
