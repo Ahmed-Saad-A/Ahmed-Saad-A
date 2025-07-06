@@ -29,7 +29,8 @@
 
 <!-- === Project 1: Daniels === -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Daniels/main/Daniels-preview.png" alt="Daniels Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Daniels/main/Daniels-preview.png
+" alt="Daniels Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
 </div>
 
 <h3 align="center">🎨 Daniels Portfolio</h3>
@@ -43,7 +44,8 @@
 
 <!-- === Project 2: Bookmark === -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Daniels/main/BookMaek-preview.png" alt="Bookmark Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Bookmark-/main/BookMark-preview.png
+" alt="Bookmark Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
 </div>
 
 <h3 align="center">🔖 Bookmark Landing Page</h3>
@@ -57,7 +59,8 @@
 
 <!-- === Project 3: Charity === -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Daniels/main/GivingHand-preview.png" alt="Charity Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/charity-project-delta/main/GivingHand-preview.png
+" alt="Charity Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
 </div>
 
 <h3 align="center">🫱 Charity Management System</h3>
