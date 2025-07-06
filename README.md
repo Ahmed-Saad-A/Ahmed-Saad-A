@@ -29,7 +29,7 @@
 
 <!-- === Project 1: Daniels === -->
 <div align="center">
-  <img src="ضع-رابط-صورة-مشروع-Daniels" alt="Daniels Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
+  <img src="" alt="Daniels Screenshot" width="90%" style="border-radius:15px; box-shadow:0 0 20px #009AD8;" />
 </div>
 
 <h3 align="center">🎨 Daniels Portfolio</h3>
