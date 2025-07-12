@@ -131,7 +131,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Certificates/main/aws-intro.png" width="80%" alt="AWS Intro Cloud Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/README/main/aws_cert_1.png" width="80%" alt="AWS Intro Cloud Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
 </p>
 
 <p align="center">
@@ -145,5 +145,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Certificates/main/aws-foundations.png" width="80%" alt="AWS Cloud Foundations Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/README/main/aws_cert_2.png" width="80%" alt="AWS Cloud Foundations Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
 </p>
