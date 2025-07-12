@@ -122,7 +122,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/go/C5N2067B" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5e3d1c1a-8446-41e3-8b9e-0c7c2838bf37/image.png" width="120" alt="AWS Intro Cloud Badge"/>
+    <img src="https://images.credly.com/size/340x340/images/5e3d1c1a-8446-41e3-8b9e-0c7c2838bf37/image.png" width="100" alt="AWS Intro Cloud Badge"/>
     <br />
     AWS Academy Introduction to Cloud Semester 1  
     <br />
@@ -131,11 +131,19 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Certificates/main/aws-intro.png" width="80%" alt="AWS Intro Cloud Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
+</p>
+
+<p align="center">
   <a href="https://www.credly.com/go/gjRKNrMt" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0ed10f57-a1d7-4b95-9f62-ace3f9d4c3d9/image.png" width="120" alt="AWS Cloud Foundations Badge"/>
+    <img src="https://images.credly.com/size/340x340/images/0ed10f57-a1d7-4b95-9f62-ace3f9d4c3d9/image.png" width="100" alt="AWS Cloud Foundations Badge"/>
     <br />
     AWS Academy Cloud Foundations  
     <br />
     <sub>Issued: April 17, 2025 • 20 Hours</sub>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Certificates/main/aws-foundations.png" width="80%" alt="AWS Cloud Foundations Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
 </p>
