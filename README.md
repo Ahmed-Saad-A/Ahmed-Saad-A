@@ -115,3 +115,27 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Saad-A&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"/>
 </p>
+
+---
+
+## 🎓 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/go/C5N2067B" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/5e3d1c1a-8446-41e3-8b9e-0c7c2838bf37/image.png" width="120" alt="AWS Intro Cloud Badge"/>
+    <br />
+    AWS Academy Introduction to Cloud Semester 1  
+    <br />
+    <sub>Issued: May 19, 2024 • 60 Hours</sub>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/go/gjRKNrMt" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0ed10f57-a1d7-4b95-9f62-ace3f9d4c3d9/image.png" width="120" alt="AWS Cloud Foundations Badge"/>
+    <br />
+    AWS Academy Cloud Foundations  
+    <br />
+    <sub>Issued: April 17, 2025 • 20 Hours</sub>
+  </a>
+</p>
