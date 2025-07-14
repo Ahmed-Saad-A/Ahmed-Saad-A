@@ -122,7 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Ahmed-Saad-A/main/AWS_Academy_Graduate__AWS_Academy_Introduction_to_Cloud.png" width="80%" alt="AWS Intro Cloud Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Ahmed-Saad-A/main/AWS_Academy_Graduate___AWS_Academy_Introduction_to_Cloud_Semester_1_Badge20250425-25-4hwnp9_page-0001.jpg" width="80%" alt="AWS Intro Cloud Certificate" />
 </p>
 
 <p align="center">
@@ -136,5 +136,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Ahmed-Saad-A/main/AWS_Academy_Graduate__AWS_Academy_Cloud_Foundations.png" width="80%" alt="AWS Cloud Foundations Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Ahmed-Saad-A/main/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250706-28-2t0jql_page-0001.jpg" width="80%" alt="AWS Cloud Foundations Certificate" />
 </p>
+
