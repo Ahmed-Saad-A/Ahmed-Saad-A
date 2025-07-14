@@ -112,8 +112,7 @@
 ## 🎓 Certifications
 
 <p align="center">
-<!--   <a href="https://www.credly.com/go/C5N2067B" target="_blank"> -->
-    <img src="https://images.credly.com/size/340x340/images/5e3d1c1a-8446-41e3-8b9e-0c7c2838bf37/image.png" width="100" alt="AWS Intro Cloud Badge"/>
+  <a href="https://www.credly.com/go/C5N2067B" target="_blank">
     <br />
     AWS Academy Introduction to Cloud Semester 1  
     <br />
@@ -127,7 +126,6 @@
 
 <p align="center">
   <a href="https://www.credly.com/go/gjRKNrMt" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0ed10f57-a1d7-4b95-9f62-ace3f9d4c3d9/image.png" width="100" alt="AWS Cloud Foundations Badge"/>
     <br />
     AWS Academy Cloud Foundations  
     <br />
