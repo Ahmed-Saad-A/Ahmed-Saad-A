@@ -109,15 +109,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Saad-A&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"/>
-</p>
-
----
-
 ## 🎓 Certifications
 
 <p align="center">
@@ -131,7 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/README/main/aws_cert_1.png" width="80%" alt="AWS Intro Cloud Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Ahmed-Saad-A/main/AWS_Academy_Graduate__AWS_Academy_Introduction_to_Cloud.png" width="80%" alt="AWS Intro Cloud Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
 </p>
 
 <p align="center">
@@ -145,5 +136,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/README/main/aws_cert_2.png" width="80%" alt="AWS Cloud Foundations Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Saad-A/Ahmed-Saad-A/main/AWS_Academy_Graduate__AWS_Academy_Cloud_Foundations.png" width="80%" alt="AWS Cloud Foundations Certificate" style="border-radius:12px; box-shadow:0 0 20px #009AD8;" />
 </p>
